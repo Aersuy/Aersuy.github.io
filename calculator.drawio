@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="wpjNXMdoYafT5c4S4e7b">
-    <mxGraphModel dx="1499" dy="2045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1274" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="IW--40aOMqE-fzdoDW7e-2" value="&lt;div&gt;m_num: vector&amp;lt;int&amp;gt;&lt;/div&gt;&lt;div&gt;m_length: long int&lt;/div&gt;&lt;div&gt;m_sign: bool&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IW--40aOMqE-fzdoDW7e-1">
           <mxGeometry y="30" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IW--40aOMqE-fzdoDW7e-3" value="&lt;div&gt;BigNum(string)&lt;/div&gt;&lt;div&gt;BigNum(QString)&lt;br&gt;&lt;/div&gt;&lt;div&gt;BigNum(int)&lt;/div&gt;&lt;div&gt;BigNum(float)&lt;/div&gt;&lt;div&gt;BigNum(Double)&lt;/div&gt;&lt;div&gt;BigNum(BigNum)&lt;br&gt;&lt;/div&gt;&lt;div&gt;~BigNum()&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="IW--40aOMqE-fzdoDW7e-1">
+        <mxCell id="IW--40aOMqE-fzdoDW7e-3" value="&lt;div&gt;BigNum()&lt;br&gt;&lt;/div&gt;&lt;div&gt;BigNum(string)&lt;/div&gt;&lt;div&gt;BigNum(QString)&lt;br&gt;&lt;/div&gt;&lt;div&gt;BigNum(int)&lt;/div&gt;&lt;div&gt;BigNum(float)&lt;/div&gt;&lt;div&gt;BigNum(Double)&lt;/div&gt;&lt;div&gt;BigNum(BigNum)&lt;br&gt;&lt;/div&gt;&lt;div&gt;~BigNum()&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="IW--40aOMqE-fzdoDW7e-1">
           <mxGeometry y="80" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IW--40aOMqE-fzdoDW7e-9" value="BigNum sin(BigNum&amp;amp;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

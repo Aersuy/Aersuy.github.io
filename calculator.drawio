@@ -4,8 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="i2-pzG8fBMUcE_TqMVZW-1" value="BigNum" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="IW--40aOMqE-fzdoDW7e-1" value="BigNum" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="260" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="IW--40aOMqE-fzdoDW7e-2" value="&lt;div&gt;m_num: vector&amp;lt;int&amp;gt;&lt;/div&gt;&lt;div&gt;m_length: long int&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IW--40aOMqE-fzdoDW7e-1">
+          <mxGeometry y="30" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IW--40aOMqE-fzdoDW7e-3" value="&lt;div&gt;BigNum(string)&lt;/div&gt;&lt;div&gt;BigNum(int)&lt;/div&gt;&lt;div&gt;BigNum(float)&lt;/div&gt;&lt;div&gt;BigNum(Double)&lt;/div&gt;&lt;div&gt;~BigNum()&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IW--40aOMqE-fzdoDW7e-1">
+          <mxGeometry y="80" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IW--40aOMqE-fzdoDW7e-4" value="&lt;div&gt;BigNum operator+(BigNum&amp;amp;)&lt;br&gt;&lt;/div&gt;&lt;div&gt;BigNum operator-(BigNum&amp;amp;)&lt;/div&gt;&lt;div&gt;BigNum operator*(BigNum&amp;amp;)&lt;/div&gt;&lt;div&gt;BigNum operator/(BigNum&amp;amp;)&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IW--40aOMqE-fzdoDW7e-1">
+          <mxGeometry y="180" width="260" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

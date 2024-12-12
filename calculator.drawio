@@ -138,7 +138,7 @@
             <mxPoint x="850" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IW--40aOMqE-fzdoDW7e-41" value="&lt;div&gt;NameSpace&lt;/div&gt;&lt;div&gt;BigNumMath&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="IW--40aOMqE-fzdoDW7e-41" value="&lt;div&gt;BigNumMath&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="890" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IW--40aOMqE-fzdoDW7e-43" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
@@ -240,7 +240,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IW--40aOMqE-fzdoDW7e-80" value="&lt;div&gt;NameSpace&lt;br&gt;&lt;/div&gt;&lt;div&gt;LoneFunctions&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="IW--40aOMqE-fzdoDW7e-80" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;LoneFunctions&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1120" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IW--40aOMqE-fzdoDW7e-81" value="int findCh(ch,std::string)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -423,7 +423,7 @@
             <mxPoint x="-50" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IW--40aOMqE-fzdoDW7e-152" value="&lt;div&gt;NameSpace&lt;/div&gt;&lt;div&gt;BinaryMath&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+        <mxCell id="IW--40aOMqE-fzdoDW7e-152" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BinaryMath&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="1120" y="620" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IW--40aOMqE-fzdoDW7e-155" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="IW--40aOMqE-fzdoDW7e-152" target="IW--40aOMqE-fzdoDW7e-132">
@@ -468,7 +468,7 @@
         <mxCell id="IW--40aOMqE-fzdoDW7e-166" value="&lt;div&gt;Methods&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IW--40aOMqE-fzdoDW7e-163">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IW--40aOMqE-fzdoDW7e-167" value="&lt;div&gt;Namespace&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="IW--40aOMqE-fzdoDW7e-167" value="&lt;div&gt;Namespace&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-240" y="-760" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IW--40aOMqE-fzdoDW7e-168" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="1">

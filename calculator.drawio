@@ -541,18 +541,6 @@
         <mxCell id="IW--40aOMqE-fzdoDW7e-183" value="&lt;div&gt;Parse()&lt;/div&gt;&lt;div&gt;Call()&lt;/div&gt;&lt;div&gt;Evaluate()&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="IW--40aOMqE-fzdoDW7e-180" vertex="1">
           <mxGeometry y="90" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_qri5y5_duerHzRPF5U2-4" value="&lt;div&gt;QString toQString()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="280" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_qri5y5_duerHzRPF5U2-5" value="&lt;div&gt;print()&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="520" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_qri5y5_duerHzRPF5U2-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="_qri5y5_duerHzRPF5U2-4" target="_qri5y5_duerHzRPF5U2-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-300" y="450" as="sourcePoint" />
-            <mxPoint x="-250" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

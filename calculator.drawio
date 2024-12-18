@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="wpjNXMdoYafT5c4S4e7b">
-    <mxGraphModel dx="3199" dy="2045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4248" dy="2706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -588,10 +588,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l4ng7qK7FLs2qWG-jaGo-10" value="void logError()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="-410" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="-570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l4ng7qK7FLs2qWG-jaGo-11" value="writeToFile()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="-550" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l4ng7qK7FLs2qWG-jaGo-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="1" source="IW--40aOMqE-fzdoDW7e-180" target="l4ng7qK7FLs2qWG-jaGo-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -602,10 +602,40 @@
         </mxCell>
         <mxCell id="l4ng7qK7FLs2qWG-jaGo-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="769" y="-410" as="sourcePoint" />
-            <mxPoint x="769.41" y="-490" as="targetPoint" />
+            <mxPoint x="769" y="-570" as="sourcePoint" />
+            <mxPoint x="769.41" y="-650" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="l4ng7qK7FLs2qWG-jaGo-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="1" source="IW--40aOMqE-fzdoDW7e-123" target="l4ng7qK7FLs2qWG-jaGo-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="-230" as="sourcePoint" />
+            <mxPoint x="1120" y="-280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1860" y="-540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4ng7qK7FLs2qWG-jaGo-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="1" source="IW--40aOMqE-fzdoDW7e-1" target="l4ng7qK7FLs2qWG-jaGo-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="-30" as="sourcePoint" />
+            <mxPoint x="500" y="-80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="185" y="-540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4ng7qK7FLs2qWG-jaGo-17" value="&lt;div&gt;Errors.log&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-900" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l4ng7qK7FLs2qWG-jaGo-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="1" source="l4ng7qK7FLs2qWG-jaGo-11" target="l4ng7qK7FLs2qWG-jaGo-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="-570" as="sourcePoint" />
+            <mxPoint x="790" y="-620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4ng7qK7FLs2qWG-jaGo-19" value="&lt;div&gt;File&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="-600" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

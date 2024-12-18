@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="wpjNXMdoYafT5c4S4e7b">
-    <mxGraphModel dx="4531" dy="2884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3660" dy="2335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,7 +267,7 @@
             <mxPoint x="850" y="1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IW--40aOMqE-fzdoDW7e-89" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IW--40aOMqE-fzdoDW7e-89" value="BigNum Gamma(BigNum&amp;amp;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="1070" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IW--40aOMqE-fzdoDW7e-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">

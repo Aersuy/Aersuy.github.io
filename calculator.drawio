@@ -767,11 +767,8 @@
             <mxPoint x="-650" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l4ng7qK7FLs2qWG-jaGo-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1" source="l4ng7qK7FLs2qWG-jaGo-50" target="l4ng7qK7FLs2qWG-jaGo-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="l4ng7qK7FLs2qWG-jaGo-50" value="InitialEstimation" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-1075" y="20" width="100" height="100" as="geometry" />
+          <mxGeometry x="-1075" y="-215" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="l4ng7qK7FLs2qWG-jaGo-55" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -873,6 +870,9 @@
               <mxPoint x="800" y="-630" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="l4ng7qK7FLs2qWG-jaGo-83" value="BigNum estimate()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="40" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -100,7 +100,7 @@
             <mxPoint x="850" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IW--40aOMqE-fzdoDW7e-33" value="BigNum exp(BigNum&amp;amp;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IW--40aOMqE-fzdoDW7e-33" value="BigNum exp(BigNum&amp;amp;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="500" y="550" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IW--40aOMqE-fzdoDW7e-34" value="BigNum arcsin(BigNum&amp;amp;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -275,7 +275,7 @@
         <mxCell id="IW--40aOMqE-fzdoDW7e-89" value="BigNum Gamma(BigNum&amp;amp;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="1070" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IW--40aOMqE-fzdoDW7e-90" value="BigNum round(BigNum&amp;amp;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IW--40aOMqE-fzdoDW7e-90" value="BigNum round(BigNum&amp;amp;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="660" y="1070" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IW--40aOMqE-fzdoDW7e-91" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">

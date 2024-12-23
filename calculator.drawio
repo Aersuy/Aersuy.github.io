@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="wpjNXMdoYafT5c4S4e7b">
-    <mxGraphModel dx="3520" dy="3347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4531" dy="3984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -263,7 +263,7 @@
         <mxCell id="IW--40aOMqE-fzdoDW7e-86" value="BigNum factorial(BigNum&amp;amp;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="500" y="950" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IW--40aOMqE-fzdoDW7e-87" value="&lt;div&gt;BigNum&amp;amp;&lt;/div&gt;&lt;div&gt;natPow(BigNum&amp;amp;BigNum&amp;amp;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IW--40aOMqE-fzdoDW7e-87" value="&lt;div&gt;BigNum&amp;amp;&lt;/div&gt;&lt;div&gt;natPow(BigNum&amp;amp;BigNum&amp;amp;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="660" y="950" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IW--40aOMqE-fzdoDW7e-88" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
@@ -796,10 +796,10 @@
         <mxCell id="l4ng7qK7FLs2qWG-jaGo-58" value="&lt;div&gt;Constants&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="180" y="770" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="l4ng7qK7FLs2qWG-jaGo-59" value="&lt;a title=&quot;&quot; href=&quot;https://en.wikipedia.org/wiki/Pi&quot;&gt;Pi&lt;/a&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="l4ng7qK7FLs2qWG-jaGo-59" value="&lt;a title=&quot;&quot; href=&quot;https://en.wikipedia.org/wiki/Pi&quot;&gt;Pi&lt;/a&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-470" y="770" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="l4ng7qK7FLs2qWG-jaGo-61" value="e" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="l4ng7qK7FLs2qWG-jaGo-61" value="e" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-470" y="870" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l4ng7qK7FLs2qWG-jaGo-62" value="&lt;a title=&quot;Tau (mathematical constant)&quot; class=&quot;mw-redirect&quot; href=&quot;https://en.wikipedia.org/wiki/Tau_(mathematical_constant)&quot;&gt;Tau&lt;/a&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -808,7 +808,7 @@
         <mxCell id="l4ng7qK7FLs2qWG-jaGo-63" value="&lt;a title=&quot;&quot; href=&quot;https://en.wikipedia.org/wiki/Connective_constant&quot;&gt;Connective constant&lt;/a&gt; " style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-470" y="1100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="l4ng7qK7FLs2qWG-jaGo-64" value="&lt;a title=&quot;&quot; href=&quot;https://en.wikipedia.org/wiki/Golden_ratio&quot;&gt;Golden ratio&lt;/a&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_mathematical_constants#cite_note-16&quot;&gt;&lt;span class=&quot;cite-bracket&quot;&gt;&lt;/span&gt;&lt;/a&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="l4ng7qK7FLs2qWG-jaGo-64" value="&lt;a title=&quot;&quot; href=&quot;https://en.wikipedia.org/wiki/Golden_ratio&quot;&gt;Golden ratio&lt;/a&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_mathematical_constants#cite_note-16&quot;&gt;&lt;span class=&quot;cite-bracket&quot;&gt;&lt;/span&gt;&lt;/a&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-350" y="870" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l4ng7qK7FLs2qWG-jaGo-65" value="&lt;div&gt;BinaryOne&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -894,10 +894,10 @@
             <mxPoint x="80" y="-220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m9IS5HtPK7Ghj7tIPeTp-1" value="std::string stringMultiply()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="m9IS5HtPK7Ghj7tIPeTp-1" value="std::string stringMultiply()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1660" y="250" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="m9IS5HtPK7Ghj7tIPeTp-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="m9IS5HtPK7Ghj7tIPeTp-1">
+        <mxCell id="m9IS5HtPK7Ghj7tIPeTp-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" target="m9IS5HtPK7Ghj7tIPeTp-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1210" y="440" as="sourcePoint" />
             <mxPoint x="1440" y="310" as="targetPoint" />
@@ -906,7 +906,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="m9IS5HtPK7Ghj7tIPeTp-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="1" source="m9IS5HtPK7Ghj7tIPeTp-1">
+        <mxCell id="m9IS5HtPK7Ghj7tIPeTp-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" parent="1" source="m9IS5HtPK7Ghj7tIPeTp-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1140" y="390" as="sourcePoint" />
             <mxPoint x="1080" y="60" as="targetPoint" />

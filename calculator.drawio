@@ -572,6 +572,7 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-500" y="450" as="sourcePoint" />
             <mxPoint x="-450" y="400" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l4ng7qK7FLs2qWG-jaGo-10" value="void logError()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
